@@ -81,10 +81,11 @@ body{
             to right, #000000, #0000ff 25% ,#0066ff 70%, #000000) ;
         border: 5px solid #ffffff;
     }
-    footer > p{
+    footer p{
         font-size: 20px;
         text-align: right;
-        padding-top: 15px;
+        padding-top: 15px;;
+        padding-left:0 px7;
         padding-right:15px;
         padding-bottom: 15px;
     }
